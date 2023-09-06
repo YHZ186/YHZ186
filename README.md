@@ -1,4 +1,5 @@
 ### Hi there 👋
+我是一名计算机科学与技术专业的学生，来自福建漳州，喜欢旅游喜欢美食
 
 <!--
 **YHZ186/YHZ186** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
